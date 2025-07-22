@@ -5,4 +5,4 @@ This repository is a personal notebook where I keep track of what I’m studying
 ## 📚 Notes So Far
 
 * **[Vector Databases](./Vector%20Databases/)**
-* ..
+* **[Vanilla Gan](./Vanilla%20GAN/)**
